@@ -1,6 +1,7 @@
 # Compiled class file
 *.class
 /target/
+/node_modules/
 # Log file
 *.log
 
