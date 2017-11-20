@@ -1,0 +1,4 @@
+com\sap\employeeslist\JpaEntityManagerFactory.class
+com\sap\employeeslist\service\EmployeesListService.class
+com\sap\employeeslist\EmployeesListServiceFactory.class
+com\sap\employeeslist\Employee.class
